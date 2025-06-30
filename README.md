@@ -4,7 +4,7 @@
 
 1. [📋 Project Overview](#-overview)
 2. [🎯 Key Features](#-features)
-3. [⚙️ Tech Stack & Dataset](#-technologies-used)
+3. [⚙️Tech Stack & Dataset](#technologies-used)
 4. [🚀 Installation & Usage](#-usage)
 5. [🔄 Methodology & Workflow](#-project-workflow)
 6. [📊 Results & Visualizations](#-sample-outputs)
@@ -46,7 +46,7 @@ This project applies machine learning to predict disease risk levels using ocula
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Languages & Libraries
 - Python 3.x
@@ -165,14 +165,18 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 **Authors:** Mudumala Varnika Narayani, Naga Ruthvika Durupudi, Nunnaguppala Rohit, Tejashwini Vadeghar, Jyotsna C , Aiswariya Milan K
 
 **Publication:** 5th International Conference on Pervasive Computing and Social Networking (ICPCSN-2025)
+
 **Conference Date:** 14th–16th May 2025
+
 **Conference Location:** R P Sarathy Institute of Technology, Salem, Tamil Nadu, India (Hybrid Mode)
 
 **Publisher:**  IEEE 
 
 **Abstract:**  
 This paper presents a review of machine learning methodologies applied to disease risk evaluation, leveraging ocular condition indices derived from the RFMiD dataset. To enhance the performance of classification, a formal and structured mechanism of statistical analysis and also the method of model prediction was applied. Data mining techniques which include Decision Trees, Random Forest, Naive Bayes, Gradient Boosting, and Stacking Classifiers were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC. For the cases of coarse models applied to healthcare XAI approaches such as SHAP and LIME were used to gain better interpretability. This paper points to the potential of machine learning for disease risk modelling and provides recommendations for generating accurate and easily-interpreted models in order to increase the diagnostic accuracy and, therefore, the quality of care for patients.
+
 **DOI:** [10.1109/ICPCSN65854.2025.11036005](https://doi.org/10.1109/ICPCSN65854.2025.11036005)  
+
 **IEEE Xplore:** [📖 Read Full Paper](https://ieeexplore.ieee.org/document/11036005)
 ## 👥 Team Members (Amrita School of Computing, Bengaluru)
 
